@@ -1,0 +1,5 @@
+kaggle datasets init -p /path/to/dataset
+
+edit json file
+
+kaggle datasets create -p /path/to/dataset -r zip
